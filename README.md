@@ -4,20 +4,69 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C6FF&width=435&lines=Welcome+to+my+GitHub+Profile!;Exploring+Java+%26+Web+Development;Open+to+Collaboration+%26+Learning)  
 
----
+### 🚀 About Me
 
-### **🚀 About Me**
-- 🌱 **Currently Learning**: Java, Web Development (HTML, CSS), and Object-Oriented Programming.  
-- 🛠️ **Tech Interests**: Backend Development, Scalable Systems, and Software Design.  
-- 🤝 **Open to Collaborate**: On innovative projects and open-source contributions.  
-- 📍 **Based in**: Nagpur, Maharashtra.  
-
----
-
-### **📈 My GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitGawande&show_icons=true&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitGawande&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&width=600&lines=🚀+About+Me;Learning+Full+Stack+Java+Development+%26+Web+Development;Open+to+Collaboration+%26+Innovative+Projects!)
+</p>
+
+- 🌱 **Currently Learning**:  
+  - **Full Stack Java Development**: Building scalable backend solutions using **Java** and **Spring Boot**.  
+  - **Web Development**: Focused on both **frontend** (HTML, CSS, JavaScript) and **backend** (Node.js, MySQL).  
+  - **System Design**: Exploring system architecture and scalable design patterns for real-world applications.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitGawande&layout=compact&theme=tokyonight&hide_border=true" alt="Languages Progress Bar" />
+</p>
+
+- 🛠️ **Tech Interests**:  
+  - **Backend Development**: Building robust backend systems with **Java**, **Spring Boot**, **Node.js**, and **MySQL**.  
+  - **Scalable Systems**: Designing high-performance systems for growth.  
+  - **Software Design**: Writing clean, maintainable code using design principles.
+
+<p align="center">
+  <img src="https://github.com/RohitGawande/RohitGawande/blob/main/coding.gif" width="400" alt="Coding Animation" />
+</p>
+
+- 🤝 **Open to Collaborate**:  
+  - Passionate about **open-source** and collaborating on **innovative projects**.  
+  - Looking for opportunities in **Nagpur** or **remote** to contribute to tech communities.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20Maharashtra-FF6347?style=for-the-badge&logo=location&logoColor=white" />
+</p>
+
+- 📍 **Based in**: **Nagpur, Maharashtra**
+
+
+### 📈 My GitHub Stats  
+
+
+### 📈 My GitHub Stats
+
+#### 🚀 Dynamic GitHub Stats Overview with Animation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohitGawande&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=30,0,255,255&title_color=ffffff&icon_color=ff2b2b&text_color=ffffff" width="500" />
+</p>
+
+#### 🔥 GitHub Streak Stats (with Fire Animation)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitGawande&theme=radical&hide_border=true&fire=FF5733&background=FFEB3B" alt="GitHub Streak Stats" width="500" />
+</p>
+
+#### 🌍 Top Languages with Compact Layout and Animated Progress
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitGawande&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=30,0,255,255" alt="Top Languages" width="500" />
+</p>
+
+#### 📊 GitHub Activity Graph with Interactive Hover Effect
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RohitGawande&theme=react&hide_border=true&area=true&color=ff6b6b&interactive=true" alt="GitHub Activity Graph" width="500" />
+</p>
+
+#### 📉 Contribution Graph with Dynamic Colors
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RohitGawande&theme=gradient&hide_border=true&area=true&color=7fffd4" alt="GitHub Contribution Graph" width="500" />
 </p>
 
 ---
@@ -85,23 +134,6 @@
   - Applied image segmentation and feature extraction techniques.  
   - Designed a modular system for disease classification and reporting.  
 
-
-### **🎯 Fun GitHub Animations**
-
-<p align="center"> 
-  <!-- Coding Animation -->
-  <img src="https://github.com/RohitGawande/RohitGawande/blob/main/coding.gif" width="400" alt="Coding Animation" />
-</p>  
-
-<p align="center">
-  <!-- Typing Animation -->
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Keep+Calm+%26+Code+On+💻;Open+to+Collaboration+%26+Learning+🌟;Building+One+Line+at+a+Time!)
-</p>
-
-<p align="center">
-  <!-- Progress Bar Animation -->
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="100%" alt="Progress Matrix Animation" />
-</p>
 
 
 ## 🏆 Achievements
