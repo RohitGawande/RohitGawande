@@ -6,9 +6,7 @@
 
 ### 🚀 About Me
 
-<p align="center">
-  ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C6FF&width=600&lines=🚀+About+Me;Learning+Full+Stack+Java+Development+%26+Web+Development;Open+to+Collaboration+%26+Innovative+Projects!)
-</p>
+
 
 - 🌱 **Currently Learning**:  
   - **Full Stack Java Development**: Building scalable backend solutions using **Java** and **Spring Boot**.  
@@ -39,37 +37,8 @@
 - 📍 **Based in**: **Nagpur, Maharashtra**
 
 
-### 📈 My GitHub Stats  
 
 
-### 📈 My GitHub Stats
-
-#### 🚀 Dynamic GitHub Stats Overview with Animation
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohitGawande&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=30,0,255,255&title_color=ffffff&icon_color=ff2b2b&text_color=ffffff" width="500" />
-</p>
-
-#### 🔥 GitHub Streak Stats (with Fire Animation)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohitGawande&theme=radical&hide_border=true&fire=FF5733&background=FFEB3B" alt="GitHub Streak Stats" width="500" />
-</p>
-
-#### 🌍 Top Languages with Compact Layout and Animated Progress
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitGawande&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=30,0,255,255" alt="Top Languages" width="500" />
-</p>
-
-#### 📊 GitHub Activity Graph with Interactive Hover Effect
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RohitGawande&theme=react&hide_border=true&area=true&color=ff6b6b&interactive=true" alt="GitHub Activity Graph" width="500" />
-</p>
-
-#### 📉 Contribution Graph with Dynamic Colors
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RohitGawande&theme=gradient&hide_border=true&area=true&color=7fffd4" alt="GitHub Contribution Graph" width="500" />
-</p>
-
----
 
 ### **🛠️ Tech Stack**
 <p align="center">
